@@ -1,14 +1,14 @@
 
-<img src="https://github.com/Tucapulcinelli/tucapulcinelli/blob/main/code7.jpg">
+<img src="https://github.com/Tucapulcinelli/pics/blob/main/code.jpg">
 
 <h2> Hey there! I'm Thauany, but please call me Tuca.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> :raising_hand_woman: &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software engeneering at 42SP.
-- 💼 &nbsp; Working as a professional photographer.
-- 🌱 &nbsp; Learning more about C language.
+- :woman_technologist: &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- :woman_astronaut: &nbsp; Studying Software engeneering at 42SP.
+- :camera_flash: &nbsp; Working as a professional photographer.
+- :woman_student: &nbsp; Learning more about C language.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -26,7 +26,7 @@
 ![Tuca's GitHub stats](https://github-readme-stats.vercel.app/api?username=tucapulcinelli&show_icons=true&theme=nord)
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tucapulcinelli&theme=nord" />
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> :globe_with_meridians:	 &nbsp;Connect with Me </h3>
 
 <a href="http://www.ppafotocine.com.br"><img alt="Website" src="https://img.shields.io/badge/Website-www.ppafotocine.com.br-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/thauany-pulcinelli-b8aa17141/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thauany%20Pulcinelli%20-blue?style=flat-square&logo=linkedin"></a>
