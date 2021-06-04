@@ -5,9 +5,9 @@
 
 <h3> :raising_hand_woman: &nbsp;About Me </h3>
 
-- :woman_technologist: &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- :woman_technologist: &nbsp; Exploring new technologies and discovering new galaxies.
 - :woman_astronaut: &nbsp; Studying Software engeneering at 42SP.
-- :camera_flash: &nbsp; Working as a professional photographer.
+- :camera_flash: &nbsp; Photographer and Videomaker.
 - :woman_student: &nbsp; Learning more about C language.
 
 <h3> :joystick: &nbsp;42SP Projects</h3>
