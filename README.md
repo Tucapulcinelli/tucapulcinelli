@@ -39,7 +39,7 @@
 
 <p align="center">
 <a href="http://www.ppafotocine.com.br"><img alt="Website" src="https://img.shields.io/badge/Website-www.ppafotocine.com.br-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/thauany-pulcinelli-b8aa17141/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-thauany%20Pulcinelli%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/thauany-pulcinelli-b8aa17141/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thauany%20Pulcinelli%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/tucapulcinelli/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-tucapulcinelli-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:teptuca@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-teptuca@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
