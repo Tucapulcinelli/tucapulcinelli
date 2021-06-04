@@ -27,10 +27,9 @@
 
 <br/>
 
-<a href="https://github.com/Tucapulcinelli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  ![Tuca's GitHub stats](https://github-readme-stats.vercel.app/api?username=tucapulcinelli&theme=dark&show_icons=true)
+![Tuca's GitHub stats](https://github-readme-stats.vercel.app/api?username=tucapulcinelli&show_icons=true&theme=nord)
 
+<a href="https://github.com/Tucapulcinelli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
 </a>
 
