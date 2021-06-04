@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.ppafotocine.com.br/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ppafotocine.com.br-blue?style=flat-square&logo=google-chrome"></a>
+<a href="http://www.ppafotocine.com.br"><img alt="Website" src="https://img.shields.io/badge/Website-www.ppafotocine.com.br-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/thauany-pulcinelli-b8aa17141/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/tucapulcinelli/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-tucapulcinelli-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:teptuca@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-teptuca@gmail.com-blue?style=flat-square&logo=gmail"></a>
