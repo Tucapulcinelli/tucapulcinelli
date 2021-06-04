@@ -11,7 +11,7 @@
 - :woman_student: &nbsp; Learning more about C language.
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> :computer: &nbsp;Tech Stack</h3>
 
   ![C++](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -20,6 +20,10 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+
+<h3> :joystick: &nbsp;42SP Projects</h3>
+
+<img src="https://github.com/Tucapulcinelli/pics/blob/main/code.jpg">
 
 <br/>
 
