@@ -14,26 +14,21 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C++](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
 
 <br/>
 
 ![Tuca's GitHub stats](https://github-readme-stats.vercel.app/api?username=tucapulcinelli&show_icons=true&theme=nord)
-
-<a href="https://github.com/Tucapulcinelli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-</a>
-
-<br/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tucapulcinelli&theme=nord" />
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -44,4 +39,3 @@
 <a href="mailto:teptuca@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-teptuca@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [tucapulcinelli](https://github.com/Tucapulcinelli)
