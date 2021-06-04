@@ -1,30 +1,14 @@
-### Hi there 👋
-
-<!--
-**Tucapulcinelli/tucapulcinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Hey there! I'm Tuca.</h2>
+<h2> Hey there! I'm Thauany, but please call me Tuca.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software engeneering at 42SP.
 - 💼 &nbsp; Working as a professional photographer.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about C language.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -45,6 +29,8 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Tucapulcinelli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  ![Tuca's GitHub stats](https://github-readme-stats.vercel.app/api?username=tucapulcinelli&theme=dark&show_icons=true)
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
 </a>
 
