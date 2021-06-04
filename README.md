@@ -23,7 +23,13 @@
 
 <h3> :joystick: &nbsp;42SP Projects</h3>
 
-<img src="https://github.com/Tucapulcinelli/pics/blob/main/code.jpg">
+<img src="https://github.com/Tucapulcinelli/pics/blob/main/libftm.png">
+<img src="https://github.com/Tucapulcinelli/pics/blob/main/get_next_linem.png">
+<img src="https://github.com/Tucapulcinelli/pics/blob/main/netwhate.png">
+<img src="https://github.com/Tucapulcinelli/pics/blob/main/ft_printfe.png">
+<img src="https://github.com/Tucapulcinelli/pics/blob/main/cub3de.png">
+<img src="https://github.com/Tucapulcinelli/pics/blob/main/born2beroote.png">
+
 
 <br/>
 
