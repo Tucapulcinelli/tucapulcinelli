@@ -10,6 +10,9 @@
 - :camera_flash: &nbsp; Working as a professional photographer.
 - :woman_student: &nbsp; Learning more about C language.
 
+<h3> :joystick: &nbsp;42SP Projects</h3>
+
+<img src="https://github.com/Tucapulcinelli/pics/blob/main/libftm.png"> <img src="https://github.com/Tucapulcinelli/pics/blob/main/get_next_linem.png"> <img src="https://github.com/Tucapulcinelli/pics/blob/main/netwhate.png"> <img src="https://github.com/Tucapulcinelli/pics/blob/main/ft_printfe.png"> <img src="https://github.com/Tucapulcinelli/pics/blob/main/cub3de.png"> <img src="https://github.com/Tucapulcinelli/pics/blob/main/born2beroote.png">
 
 <h3> :computer: &nbsp;Tech Stack</h3>
 
@@ -20,11 +23,6 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-
-<h3> :joystick: &nbsp;42SP Projects</h3>
-
-<img src="https://github.com/Tucapulcinelli/pics/blob/main/libftm.png"> <img src="https://github.com/Tucapulcinelli/pics/blob/main/get_next_linem.png"> <img src="https://github.com/Tucapulcinelli/pics/blob/main/netwhate.png"> <img src="https://github.com/Tucapulcinelli/pics/blob/main/ft_printfe.png"> <img src="https://github.com/Tucapulcinelli/pics/blob/main/cub3de.png"> <img src="https://github.com/Tucapulcinelli/pics/blob/main/born2beroote.png">
-
 
 <br/>
 
