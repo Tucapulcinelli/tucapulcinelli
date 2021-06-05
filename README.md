@@ -27,7 +27,7 @@
 <br/>
 
 ![Tuca's GitHub stats](https://github-readme-stats.vercel.app/api?username=tucapulcinelli&show_icons=true&theme=nord)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tucapulcinelli&theme=nord" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tucapulcinelli&layout=compact&theme=nord)](https://github.com/tucapulcinelli)
 
 <h3> :globe_with_meridians:	 &nbsp;Connect with Me </h3>
 
